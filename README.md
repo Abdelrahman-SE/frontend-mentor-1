@@ -16,7 +16,7 @@ The goal of this challenge is to build a simple, responsive card component and m
 
 ## Links
 
-- Live Site: _(add your live demo link here, e.g. Vercel / Netlify)_
+- Live Site: https://abdelrahman-se.github.io/frontend-mentor-1/
 - Challenge Link: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
 ---
@@ -28,7 +28,6 @@ The goal of this challenge is to build a simple, responsive card component and m
 - Flexbox
 - Responsive Design (Mobile First)
 - Google Fonts
-
 ---
 
 ## What I Learned
@@ -45,4 +44,3 @@ Through this project, I practiced:
 ## Author
 
 - GitHub: https://github.com/Abdelrahman-SE
-- Frontend Mentor: _(your Frontend Mentor profile link)_
